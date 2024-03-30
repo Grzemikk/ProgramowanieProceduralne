@@ -1,0 +1,6 @@
+﻿  list2.cpp
+  main.cpp
+C:\Users\Generał Grzesiczek\Desktop\Proceduralne\Lista-Dwukierunkowa\Lista-Dwukierunkowa\main.cpp(160,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ListItem *'
+C:\Users\Generał Grzesiczek\Desktop\Proceduralne\Lista-Dwukierunkowa\Lista-Dwukierunkowa\main.cpp(160,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'ListItem *'
+  Generating Code...
+  Lista-Dwukierunkowa.vcxproj -> C:\Users\Generał Grzesiczek\Desktop\Proceduralne\Lista-Dwukierunkowa\x64\Debug\Lista-Dwukierunkowa.exe
