@@ -1,6 +1,8 @@
 *.vcxproj
 *.filters
 *.user
+*.sln
+
 
 *.rsuser
 *.suo
